@@ -1,0 +1,5 @@
+bonjour hadoop kali docker bonjour hadoop mapreduce hdfs yarn docker
+kali bonjour reseau securite hadoop docker python bonjour kali securite
+reseau hdfs hadoop python mapreduce docker bonjour yarn kali securite
+hadoop python reseau docker bonjour hdfs mapreduce kali hadoop securite
+python docker yarn bonjour reseau hadoop kali hdfs python securite
